@@ -1,0 +1,28 @@
+.meme {
+    position: relative;
+}
+
+.meme img {
+    width: 350px;
+    height: 350px;
+    margin: 20px;
+    overflow: hidden;
+}
+
+.meme span {
+    font-size: 20px;
+    font-weight: bold;
+    position: absolute;
+    left: 0;
+    right: 0;
+    margin: auto;
+    text-shadow: 3px 3px black;
+}
+
+.toptext {
+    top: 20px;
+}
+
+.bottomtext {
+    bottom: 30px;
+}
